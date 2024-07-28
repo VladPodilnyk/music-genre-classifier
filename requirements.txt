@@ -1,0 +1,4 @@
+fastai
+numpy
+librosa
+matplotlib

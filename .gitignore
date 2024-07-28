@@ -163,3 +163,6 @@ cython_debug/
 genres/
 images_original/
 images/
+
+# models
+*.pkl

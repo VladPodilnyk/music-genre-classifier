@@ -6,7 +6,7 @@ and use CNNs to recognize patterns and differentiate between different music gen
 
 #### Important notes:
 
-The model is very accurate at the moment. The reason for that, I believe, is that the input
+The model isn't very accurate at the moment. The reason for that, I believe, is that the input
 for ResNet family models is 224x224 pixels image wheres in reality we might want much larger pictures
 to be able to recognize unique traits of each spectrogram.
 Another thing to keep in mind is that training data contains 10 sec long audio files, but for the app

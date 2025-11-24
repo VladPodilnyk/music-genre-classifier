@@ -1,4 +1,8 @@
-fastai
+fastai==2.7.12
+scikit-image==0.25.2
+gradio==5.4.0
+huggingface_hub==0.33.5
 numpy
 librosa
 matplotlib
+pydantic==2.10.6

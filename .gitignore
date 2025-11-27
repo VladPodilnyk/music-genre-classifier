@@ -160,6 +160,7 @@ cython_debug/
 *.tar.gz
 
 # datasets
+dataset/
 genres/
 images_original/
 images/
